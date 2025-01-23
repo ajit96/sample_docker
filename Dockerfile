@@ -15,6 +15,6 @@ CMD [ "python","app.py" ]
 
 # <repository>/<image_name>:<tag>
 
-# this is new line
+# this is new line.
 
 
